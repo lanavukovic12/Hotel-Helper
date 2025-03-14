@@ -1,0 +1,6 @@
+Ime,Prezime,Pol,DatumRodjenja,BrojTelefona,Adresa,Username,Password,Balance,Uloga,Obrazovanje,Background,GodineIskustva
+Marko,Lukic,MUSKI,1990-01-01,0123456789,Novi Sad,broj_pasosa_1,password,1000.0,GOST,
+Sara,Lukic,ZENSKI,1985-05-20,012345678910,Novi Sad,broj_pasosa_2,password,1500.0,GOST,
+Administrator,1,MUSKI,1980-03-15,1122334455,Novi Sad,admin,adminpass,5000.0,ADMINISTRATOR,BACHELORS_DEGREE,background_text,10.0
+Recepcioner,1,ZENSKI,1992-07-25,2233445566,Novi Sad,recepcioner1,recpass,2000.0,RECEPCIONER,MASTERS_DEGREE,background_text,5.0
+Sobarica,1,ZENSKI,1988-11-30,3344556677,Novi Sad,sobarica2,cleanpass,1800.0,SOBARICA,LOWER_SECONDARY_EDUCATION,background_text,8.0

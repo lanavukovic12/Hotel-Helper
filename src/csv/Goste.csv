@@ -1,0 +1,4 @@
+Ime,Prezime,Pol,DatumRodjenja,BrojTelefona,Adresa,Username,Password,StanjeNaRacunu,Uloga
+Marko,Lukic,MUSKI,1990-01-01,0123456789,Novi Sad,broj_pasosa_1,password,1000.0,GOST
+Sara,Lukic,ZENSKI,1985-05-20,012345678910,Novi Sad,broj_pasosa_2,password,1500.0,GOST
+Administrator,1,MUSKI,1980-03-15,1122334455,Novi Sad,admin,adminpass,5000.0,ADMINISTRATOR
